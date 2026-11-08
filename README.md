@@ -17,11 +17,10 @@
 * 🤖 Actively leveraging modern AI tooling (Claude, ChatGPT, Gemini) for code review, debugging & prototyping
 * 📖 Learning concurrency (goroutines, channels) & architecture patterns
 * 🎯 Open to Junior / Trainee Go Developer opportunities
-
+* 🎓 Student of <img src="https://img.shields.io/badge/T--Bank_Academy-FFDD2D?style=flat&logo=tinkoff&logoColor=black" height="20" valign="middle">
 ---
 
 ### Skills wall
-
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
