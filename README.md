@@ -1,9 +1,13 @@
 # Kirill Zhykovsky
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Hello, I'm ZHKVSKY — Backend Developer · Go · REST APIs" width="100%" />
+</p>
 <p align="left">
   <a href="https://t.me/freesdeas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kirill-golang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zhykovsky1@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://zhkvsky.net"><img src="https://img.shields.io/badge/WEBSITE-d8ff58?style=for-the-badge&logo=googlechrome&logoColor=050505" alt="Website" /></a>
 </p>
 
 > 🐹 Hey! I'm a Backend Developer focused on building clean, efficient services and REST APIs with Go.
