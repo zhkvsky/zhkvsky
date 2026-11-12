@@ -10,8 +10,6 @@
   <a href="https://zhkvsky.github.io"><img src="https://img.shields.io/badge/WEBSITE-d8ff58?style=for-the-badge&logo=googlechrome&logoColor=050505" alt="Website" /></a>
 </p>
 
-> 🐹 Hey! I'm a Backend Developer focused on building clean, efficient services and REST APIs with Go.
-
 ---
 
 ### About me
