@@ -41,7 +41,7 @@
 
 * **YaStat** — in progress
 
-* **nginxoid** — will be soon :P
+* [**nginxoid**](https://github.com/zhkvsky/nginxoid) — fast CLI utility in Go for NGINX access log analysis and reporting.
 
 ---
 
